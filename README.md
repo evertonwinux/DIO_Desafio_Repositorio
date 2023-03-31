@@ -1,2 +1,2 @@
 # DIO_Desafio_Repositorio
-Criação de repositório para compartilhamento de projetos
+Criação de repositório para o Desafio do Projeto
